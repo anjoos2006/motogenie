@@ -1,0 +1,23 @@
+.land-page {
+    background-image: url('../assets/images/land-page1.webp');
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+.lhead{
+    color: rgb(12, 115, 180)
+}
+.lhead1{
+    color: greenyellow;
+    padding: 2%;
+}
+.fet-p{
+    color: white;
+    padding-left: 15%;
+}
+.cont{
+    border-color: blue;
+    background-color: grey;
+}
